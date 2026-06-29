@@ -1,44 +1,27 @@
-# YAPOS — Yet Another Personal OS
-
-> **Build. Learn. Create. Your OS. Your Rules.**
-
-A browser-based desktop operating system built from scratch 
-with HTML, CSS and JavaScript. Made with love by Shrija.
-
-🔗 **Live Demo:** https://glorious-telegram-77vjrjgw9wpvh794.github.dev/
+#YAP-OS
+A operating system to paint, listen music,do calculation and a lot.
 ---
-## ✨ Apps
-
-| App | Description |
-|-----|-------------|
-| 📝 Notepad | Write and save notes |
-| 🖩 Calculator | Basic arithmetic calculator |
-| 🎨 Paint | Drawing app with tools, colors & brush sizes |
-| 🎵 Music Player | Play local files + YouTube, with visualizer |
-
+<img width="1906" height="767" alt="Screenshot 2026-06-30 015824" src="https://github.com/user-attachments/assets/b5226ad3-44f8-4633-871e-3dab866ac4f4" />
 ---
-
-## 🚀 How to Use
-
-1. Open the live demo link
-2. Click **"Get in cutie"** to enter the desktop
-3. **Double-click** any app icon to open it
-4. Drag windows by their title bar
-5. Click **X** to close any app
-
+Try it : https://glorious-telegram-77vjrjgw9wpvh794-8000.app.github.dev/
 ---
-
-## 🛠️ Built With
-
-- HTML5
-- CSS3 (Flexbox, Grid, Animations)
-- JavaScript
-- Web Audio API (Music visualizer)
-- Canvas API (Paint app)
-
+just open the link to try YAPOS.
 ---
-
-## about
-
-Hi, i am Shrija! this is my first ever web project a fully functional OS running in your browser.
-Every line is written by me, learning as i go. Enjoy! ;)
+#what's inside:
+- welcome window (draggable)
+- it has a notepad
+- calculator
+- terminal
+- music app
+- paint
+---
+#built with
+- html
+- javascript
+- CSS
+- canvas api
+- web audio api
+---
+YAPOS works for basic application needs in an operating system with a terminal inside to write commands on also it has paint to make it fun!
+---
+I am shrija! i tried my best to make YAPOS look beautiful and attractive. its my very first time working on an os. 
