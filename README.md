@@ -3,7 +3,7 @@ A operating system to paint, listen music,do calculation and a lot.
 ---
 <img width="1906" height="767" alt="Screenshot 2026-06-30 015824" src="https://github.com/user-attachments/assets/b5226ad3-44f8-4633-871e-3dab866ac4f4" />
 ---
-Try it : https://glorious-telegram-77vjrjgw9wpvh794-8000.app.github.dev/
+Try it : https://shrijasehrawat.github.io/YapOs/
 ---
 just open the link to try YAPOS.
 ---
